@@ -1,0 +1,22 @@
+{
+  "name": "myexpress",
+  "version": "1.0.0",
+  "description": "first-project",
+  "main": "user.js",
+  "scripts": {
+    "test": "mpn start",
+    "start": "node-dev user.js"
+  },
+  "author": "gowtham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.6.0",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1"
+  }
+}

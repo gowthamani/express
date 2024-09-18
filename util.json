@@ -1,0 +1,24 @@
+{
+    "menu": [
+        {
+            "menuname": "home",
+            "route": "link"
+        },
+        {
+            "menuname": "userlisting",
+            "route": "link"
+        },
+        {
+            "menuname": "documentaccess",
+            "route": "link"
+        },
+        {
+            "menuname": "softwarelist",
+            "route": "link"
+        },
+        {
+            "menuname": "usercreation",
+            "route": "link"
+        }
+    ]
+}
