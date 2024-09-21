@@ -5,7 +5,7 @@
   "main": "user.js",
   "scripts": {
     "test": "mpn start",
-    "start": "node-dev user.js"
+    "start": "nodemon user.js"
   },
   "author": "gowtham",
   "license": "ISC",
@@ -16,6 +16,7 @@
     "fs": "0.0.1-security",
     "lodash": "^4.17.21",
     "mongodb": "^6.6.0",
+    "mongoose": "^8.6.3",
     "socket.io": "^4.7.5",
     "uuid": "^9.0.1"
   }
