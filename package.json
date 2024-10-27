@@ -4,7 +4,7 @@
   "description": "first-project",
   "main": "user.js",
   "scripts": {
-    "test": "mpn start",
+    "test": "npn start",
     "start": "nodemon user.js"
   },
   "author": "gowtham",

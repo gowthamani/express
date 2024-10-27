@@ -225,5 +225,5 @@ io.on("connection", (socket) => {
     }
   });
 });
-
+server.use("/", router);
 http.listen(4000);
